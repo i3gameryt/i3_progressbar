@@ -8,6 +8,8 @@ A lightweight and customizable HTML-based progress bar for FiveM. Supports both 
 - Callback support
 - Easy to integrate into any script
 
+![Progress Bar Preview](screenshot.png)
+
 ## 🚀 Installation
 
 1. Drag the folder into your `resources` directory.
